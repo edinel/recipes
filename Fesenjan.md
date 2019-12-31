@@ -1,15 +1,17 @@
 # Fesenjan
+
 ##### Mix of Najmieh Batmantaglij & Samin Nosrat’s recipes
-* 2 large onions, peeled and thinly sliced
+
 * 2 lbs chicken or duck legs without skin
 * 1 Tablespoon turmeric
 * 1 teaspoon salt
+* 2 large onions, peeled and thinly sliced
 * 4 cups pomegranate juice
-* 1/4 cup pomegranate molasses
+* &frac14; cup pomegranate molasses
+* &frac12; lb shelled walnuts
+* &frac12; teaspoon cinnamon
+* &frac14; teaspoon ground saffron dissolved in 1 tbsp hot water
 * 1 cup peeled and cubed butternut squash (optional)
-* 1/2 lb shelled walnuts
-* 1/2 teaspoon cinnamon
-* 1/4 teaspoon ground saffron dissolved in 1 tbsp hot water
 * 2 Tablespoons sugar
 
 1. Toast the nuts in a 350 degree oven for about 15 minutes, till golden brown.
