@@ -1,6 +1,5 @@
-Fesenjan
-====
-_Mix of Najmieh Batmantaglij & Samin Nosrat’s recipes_
+# Fesenjan
+##### Mix of Najmieh Batmantaglij & Samin Nosrat’s recipes
 * 2 large onions, peeled and thinly sliced
 * 2 lbs chicken or duck legs without skin
 * 1 Tablespoon turmeric
