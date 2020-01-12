@@ -1,6 +1,7 @@
 # A Simple Cabbage Stir-Fry
 
 ### Ingredients
+
 * &frac14; cup canola oil
 * &frac12; teaspoon mustard seeds
 * &frac12; teaspoon turmeric
