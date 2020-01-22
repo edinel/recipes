@@ -1,6 +1,8 @@
 # Carrilladas
 
-*Catalan Braised Pork Cheeks*
+## Catalan Braised Pork Cheeks
+
+### Ingredients
 
 * 1 Large Onion, finely chopped
 * 1 &frac12; pounds pork cheeks
@@ -12,7 +14,7 @@
 * &frac12; cup dry red wine
 * 2 cups pork stock
 
-Instructions
+### Instructions
 
 1. Toss the pork cheeks in the seasoned flour.
 2. In a medium dutch oven, brown the pork cheeks all over
