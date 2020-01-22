@@ -1,6 +1,6 @@
 # Coq au Vin
 
-### Ingredients
+## Ingredients
 
 * 1 &frac12; lbs Brown (cremini) Mushrooms
 * &frac12; lb Maitake (hen-of-the-woods) mushrooms
@@ -18,7 +18,7 @@
 * 4 backyard chicken "airline breasts"
 * 1 small bunch parsley
 
-### Directions
+## Directions
 
 1. Bring the wine to a boil and add a teaspoon or so of kosher salt and the bay leaf.
 2. Using a lighter, set the wine vapors afire and let cook for a few minutes to burn and boil off some of the alcohol.
@@ -32,7 +32,7 @@ If they're backyard chickens, the skin should already be removed at slaughter ti
 Cut the onions into large chunks.
 Cut the carrots into large chunks as well
 Cut up the celery.
-9. In a separate pan, while the chicken has begun simmering--cook the mushrooms until they give up their water and begin to brown.  Add the carrots, onions, and a bit of salt and keep browning. 
+9. In a separate pan, while the chicken has begun simmering--cook the mushrooms until they give up their water and begin to brown.  Add the carrots, onions, and a bit of salt and keep browning.
 10. When everything is just browned around the edges, add the thyme, turn the fire off and add the &frac12; cup of cognac.  Get the lid ready, light it on fire and cook off the alcohol from the cognac.  
 11. When the flames die down, add the rest of the stock, deglaze and scrape up any and all browned bits from the pan.
 12. Add to the now-simmering chicken, and stir to combine.  
