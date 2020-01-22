@@ -1,6 +1,8 @@
 # Raisin Pie
 
-##### Page 247, _Better Homes And Gardens_
+_Page 247, **Better Homes And Gardens**_
+
+## Ingredients
 
 * 4 eggs, beaten (approx 200 grams)
 * 1 &frac13; cup sugar
@@ -12,6 +14,8 @@
 * 1 &frac12; cup raisins
 * &frac12; cup broken walnuts
 * 1 9-inch *unbaked* pastry shell
+
+## Directions
 
 1. Combine eggs, sugar, spices, salt, lemon juice, and butter.
 2. Stir in raisins and nuts
