@@ -6,6 +6,7 @@ tags: party, meat
 
 ingredients:
 - test
+- 1 bottle red wine (pinot or a relatively low-tannin variety is best)
 - dash hot sauce (like Texas Champagne or Yellowbird)
 
 directions:
