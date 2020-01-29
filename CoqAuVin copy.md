@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Downtown Marinade"
-tags: party, meat
+title:  "Coq au Vin"
+tags: chicken, main, French
 
 ingredients:
 - 1 1/2 lbs Brown (cremini) mushrooms
