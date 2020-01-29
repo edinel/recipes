@@ -1,3 +1,4 @@
 meal-type: dinner
 meal-course: main
 protein-type: pork
+all-tags: [pork, dinner, main-course]
