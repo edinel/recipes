@@ -5,8 +5,8 @@ title:  "Downtown Marinade"
 tags: party, meat
 
 ingredients:
-- 1 &frac12; lbs Brown (cremini) Mushrooms
-- &frac12; lb Maitake (hen-of-the-woods) mushrooms
+- 1 1/2 lbs Brown (cremini) mushrooms
+- 1/2 lb Maitake (hen-of-the-woods) mushrooms
 - 1 bottle red wine (pinot or a relatively low-tannin variety is best)
 - dash hot sauce (like Texas Champagne or Yellowbird)
 
