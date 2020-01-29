@@ -1,19 +1,21 @@
 ---
 
-layout:recipe
-title: "Coq Au Vin"
-tags: main, french, chicken
+layout: recipe
+title:  "Downtown Marinade"
+image: downtown-marinade.jpg
+tags: party, meat
 
 ingredients:
-- 4 backyard chicken leg quarters
-- 4 backyard chicken "airline breasts"
-- 1 small bunch parsley
+- 1 cup Italian dressing
+- 1/4 cup soy sauce
+- 1/4 cup chili paste (like [sambal oelek](https://amzn.to/2NuqquF))
+- 1/4 sugar
+- dash hot sauce (like Texas Champagne or Yellowbird)
 
 directions:
-- Bring the wine to a boil and add a teaspoon or so of kosher salt and the bay leaf.
-- Using a lighter, set the wine vapors afire and let cook for a few minutes to burn and boil off some of the alcohol.
-- Marinade the chicken overnight in the wine.  
+- Mix everythiing in a large zip bag (or bowl)
+- Toss meat and let sit (from 1-36hr)
 
 ---
 
-Test
+This is my go-to marinade for everything from steaks to shrimp to fajitas to pork. Seriously, if I'm cooking or grilling meat, there's a good chance this is what it's soaking in. It's perfect for "street meat" aka cart or truck, like tacos and wraps and kebabs and skewers and everything in between. Start with this base, add spice or herb as desired.
