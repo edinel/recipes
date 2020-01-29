@@ -8,6 +8,9 @@ ingredients:
 - 1 1/2 lbs Brown (cremini) mushrooms
 - 1/2 lb Maitake (hen-of-the-woods) mushrooms
 - 1 bottle red wine (pinot or a relatively low-tannin variety is best)
+- 3 large carrots
+- A stalk or two of celery
+- 3 large onions
 - dash hot sauce (like Texas Champagne or Yellowbird)
 
 directions:
