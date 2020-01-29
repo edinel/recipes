@@ -2,7 +2,7 @@
 
 layout:recipe
 title: "Coq Au Vin"
-tags: "main course", "french", "chicken"
+tags: main, french, chicken
 
 ingredients:
 - 1 &frac12; lbs Brown (cremini) Mushrooms
