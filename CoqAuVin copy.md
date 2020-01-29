@@ -1,4 +1,5 @@
 ---
+
 layout:recipe
 title: "Coq Au Vin"
 tags: "main course", "french", "chicken"
@@ -49,4 +50,5 @@ Cut up the celery.
 18. At service, garnish with freshly chopped parsley.  Serve over roasted potatoes.
 
 ---
+
 Test 
