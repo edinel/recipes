@@ -4,10 +4,8 @@ layout:recipe
 title: "Coq Au Vin"
 tags: "main course", "french", "chicken"
 
-# Coq au Vin
 
-## Ingredients
-
+ingredients:
 * 1 &frac12; lbs Brown (cremini) Mushrooms
 * &frac12; lb Maitake (hen-of-the-woods) mushrooms
 * 3 large carrots
@@ -24,8 +22,7 @@ tags: "main course", "french", "chicken"
 * 4 backyard chicken "airline breasts"
 * 1 small bunch parsley
 
-## Directions
-
+directions:
 1. Bring the wine to a boil and add a teaspoon or so of kosher salt and the bay leaf.
 2. Using a lighter, set the wine vapors afire and let cook for a few minutes to burn and boil off some of the alcohol.
 3. Marinade the chicken overnight in the wine.  
@@ -51,4 +48,4 @@ Cut up the celery.
 
 ---
 
-Test 
+Test
