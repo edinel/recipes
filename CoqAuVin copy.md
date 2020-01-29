@@ -7,6 +7,10 @@ tags: party, meat
 ingredients:
 - test
 - 1 &frac12; lbs Brown (cremini) Mushrooms
+- &frac12; lb Maitake (hen-of-the-woods) mushrooms
+- 3 large carrots
+- A stalk or two of celery
+- 3 large onions
 - 1 bottle red wine (pinot or a relatively low-tannin variety is best)
 - dash hot sauce (like Texas Champagne or Yellowbird)
 
