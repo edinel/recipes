@@ -5,21 +5,7 @@ title:  "Downtown Marinade"
 tags: party, meat
 
 ingredients:
-- 1 &frac12; lbs Brown (cremini) Mushrooms
-- &frac12; lb Maitake (hen-of-the-woods) mushrooms
-- 3 large carrots
-- A stalk or two of celery
-- 3 large onions
-- A few sprigs of lemon thyme
-- 1 bay leaf
-- 2 quarts homemade chicken stock
-- 4 cloves garlic
-- 1 bottle red wine (pinot or a relatively low-tannin variety is best)
-- &frac12; cup cognac
-- &frac12; lb bacon, cut into lardons
-- 4 backyard chicken leg quarters
-- 4 backyard chicken "airline breasts"
-- 1 small bunch parsley
+- test
 - dash hot sauce (like Texas Champagne or Yellowbird)
 
 directions:
