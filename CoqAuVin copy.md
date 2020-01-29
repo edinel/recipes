@@ -27,8 +27,7 @@ directions:
 - Using a lighter, set the wine vapors afire and let cook for a few minutes to burn and boil off some of the alcohol.
 - Marinade the chicken overnight in the wine.  
 - The next day, render the fat from the lardons.  Save the fat; also save the browned and crispy lardon
-- Brown the chicken (in batches) well in the bacon fat.  If they're happy chickens, they'll throw off a lot of chicken fat.  Feel free to remove some from the pan as it goes.\
-If they're backyard chickens, the skin should already be removed at slaughter time (to render for fat) but no worries if not--the skin will likely shrink and curl up a *lot*.  
+- Brown the chicken (in batches) well in the bacon fat.  If they're happy chickens, they'll throw off a lot of chicken fat.  Feel free to remove some from the pan as it goes.  If they're backyard chickens, the skin should already be removed at slaughter time (to render for fat) but no worries if not--the skin will likely shrink and curl up a *lot*.  
 - Once fully browned, deglaze the pan with the wine from the marinade.  
 - Move to your largest dutch oven, add 1/2 the chicken stock and bring to a simmer.
 - Meanwhile, wash and quarter the brown mushrooms, and wash and pull apart the hen-of-the-woods.  
