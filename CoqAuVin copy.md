@@ -4,7 +4,6 @@ layout:recipe
 title: "Coq Au Vin"
 tags: "main course", "french", "chicken"
 
-
 ingredients:
 * 1 &frac12; lbs Brown (cremini) Mushrooms
 * &frac12; lb Maitake (hen-of-the-woods) mushrooms
@@ -23,15 +22,15 @@ ingredients:
 * 1 small bunch parsley
 
 directions:
-1. Bring the wine to a boil and add a teaspoon or so of kosher salt and the bay leaf.
-2. Using a lighter, set the wine vapors afire and let cook for a few minutes to burn and boil off some of the alcohol.
-3. Marinade the chicken overnight in the wine.  
-4. The next day: Render the fat from the lardons.  Save the fat; also save the browned and crispy lardon
-5. Brown the chicken (in batches) well in the bacon fat.  If they're happy chickens, they'll throw off a lot of chicken fat.  Feel free to remove some from the pan as it goes.
-If they're backyard chickens, the skin should already be removed at slaughter time (to render for fat) but no worries if not--the skin will likely shrink and curl up a *lot*.  
-6. Once fully browned, deglaze the pan with the wine from the marinade.  
-7. Move to your largest dutch oven, add &frac12; the chicken stock and bring to a simmer.
-8. Meanwhile, wash and quarter the brown mushrooms, and wash and pull apart the hen-of-the-woods.  
+- Bring the wine to a boil and add a teaspoon or so of kosher salt and the bay leaf.
+- Using a lighter, set the wine vapors afire and let cook for a few minutes to burn and boil off some of the alcohol.
+- Marinade the chicken overnight in the wine.  
+- The next day: Render the fat from the lardons.  Save the fat; also save the browned and crispy lardon
+- Brown the chicken (in batches) well in the bacon fat.  If they're happy chickens, they'll throw off a lot of chicken fat.  Feel free to remove some from the pan as it goes.\
+Note: If they're backyard chickens, the skin should already be removed at slaughter time (to render for fat) but no worries if not--the skin will likely shrink and curl up a *lot*.  
+- Once fully browned, deglaze the pan with the wine from the marinade.  
+- Move to your largest dutch oven, add &frac12; the chicken stock and bring to a simmer.
+- Meanwhile, wash and quarter the brown mushrooms, and wash and pull apart the hen-of-the-woods.  
 Cut the onions into large chunks.
 Cut the carrots into large chunks as well
 Cut up the celery.
