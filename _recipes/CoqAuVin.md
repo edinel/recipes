@@ -5,8 +5,8 @@ image: coq-au-vin.jpg
 tags: mains, chicken, French
 
 ingredients:
--  1 &frac12; lbs Brown (cremini) Mushrooms
-- &frac12; lb Maitake (hen-of-the-woods) mushrooms
+-  1 1/2 lbs Brown (cremini) Mushrooms
+- 1/2 lb Maitake (hen-of-the-woods) mushrooms
 - 3 large carrots
 - A stalk or two of celery
 - 3 large onions
@@ -15,8 +15,8 @@ ingredients:
 - 2 quarts homemade chicken stock
 - 4 cloves garlic
 - 1 bottle red wine (pinot or a relatively low-tannin variety is best)
-- &frac12; cup cognac
-- &frac12; lb bacon, cut into lardons
+- 1/2 cup cognac
+- 1/2 lb bacon, cut into lardons
 - 4 backyard chicken leg quarters
 - 4 backyard chicken "airline breasts"
 - 1 small bunch parsley
