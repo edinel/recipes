@@ -1,39 +1,18 @@
 <!DOCTYPE html>
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head> 
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/_recipes">Recipes</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-				
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-					<li><a href="https://www.solace.org">Home</a></li>
-					<li><a href="https://recipes.solace.org">Recipes Home</a></li>
-					<li><a href="mailto:edinel@solace.org">Email</a></li>
-					<li><a href="https://github.com/edinel">Github</a></li>
-					
-					
-				</ul>
-			</footer>
-		</body>
-	</html>
-  
+<html>
 
-	
+  {% include head.html %}
+
+  <body>
+
+  	{% include header.html %}
+
+    <div class="page-content">
+        {{ content }}
+    </div>
+
+  {% include footer.html %}
+
+  </body>
+
+</html>
