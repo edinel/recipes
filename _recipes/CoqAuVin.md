@@ -6,7 +6,7 @@ tags: mains, chicken, French
 
 ingredients:
 -  1 &frac12; lbs Brown or cremini Mushrooms
-- \ &frac12; lb Maitake (hen-of-the-woods) mushrooms
+- \&frac12; lb Maitake (hen-of-the-woods) mushrooms
 - 3 large carrots
 - A stalk or two of celery
 - 3 large onions
@@ -15,8 +15,8 @@ ingredients:
 - 2 quarts homemade chicken stock
 - 4 cloves garlic
 - 1 bottle red wine (pinot or a relatively low-tannin variety is best)
-- \ &frac12; cup cognac
-- \ &frac12; lb bacon, cut into lardons
+- \&frac12; cup cognac
+- \&frac12; lb bacon, cut into lardons
 - 4 backyard chicken leg quarters
 - 4 backyard chicken "airline breasts"
 - 1 small bunch parsley
@@ -33,7 +33,7 @@ directions:
 - Meanwhile, wash and quarter the brown mushrooms, and wash and pull apart the hen-of-the-woods.  
 - Cut the onions, carrots, and celery into large chunks.
 - In a separate pan, while the chicken has begun simmering--cook the mushrooms until they give up their water and begin to brown.  Add the carrots, onions, and a bit of salt and keep browning.
-- When everything is just browned around the edges, add the thyme, turn the fire off and add the 1/2 cup of cognac.  Get the lid ready, light it on fire and cook off the alcohol from the cognac.  
+- When everything is just browned around the edges, add the thyme, turn the fire off and add the &frac12; cup of cognac.  Get the lid ready, light it on fire and cook off the alcohol from the cognac.  
 - When the flames die down, add the rest of the stock, deglaze and scrape up any and all browned bits from the pan.
 - Add to the now-simmering chicken, and stir to combine.  
 - Put in a 300 degree oven and cook, covered, until chicken is tender.  For five-year-old backyard chickens, this will literally be about 6 hours.  Keep a careful eye on the liquid level.
