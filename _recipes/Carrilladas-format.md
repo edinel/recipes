@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Carrilladas"
-image: crockpot-buffalo-chicken.jpg
+image: carrilladas.jpg
 tags: mains, pork, Spanish
 
 ingredients: 
