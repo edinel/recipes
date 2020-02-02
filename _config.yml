@@ -1,7 +1,7 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
+email: edinel@solace.org
+description: Eddie's Recipe Database.  Based on Chowhound- the plain text recipe database for hackers
 baseurl: "https://recipes.solace.org"
 language: "en"
 lang_direction: "ltr"
