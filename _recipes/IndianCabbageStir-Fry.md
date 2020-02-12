@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Indian Cabbage Stir-Fry"
 tags: mains, vegetarian, Indian
+
 ingredients:
     - "&frac14; cup canola oil"
     - "&frac12; teaspoon mustard seeds"
@@ -18,3 +19,5 @@ directions:
     - "Add the garlic, salt, and cayenne and toss well."
     - "Cover, reduce the heat to medium, and steam until the cabbage is crisp-tender, about 5 minutes."
     - Serve hot with a little yogurt or raita.
+---
+This is a super-savory vegetarian main dish that is highly satisfying to eat.
