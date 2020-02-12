@@ -5,13 +5,9 @@ image: "WTF.jpg"
 tags: mains, vegetarian, Indian
 
 ingredients:
-    - "&frac14; cup canola oil"
-    - "&frac12; teaspoon mustard seeds"
-    - "&frac12; teaspoon turmeric"
     - 1 pound green cabbage, sliced very thin
     - 2 cloves of garlic, minced
     - 2 teaspoons kosher salt
-    - "&frac12; teaspoon cayenne or other ground chile"
     - Yogurt or Raita, to serve.
 
 directions:
