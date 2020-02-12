@@ -1,12 +1,12 @@
 # Site settings
 title: Chowdown
 email: edinel@solace.org
-description: Eddie's Recipe Database.  Based on Chowhound- the plain text recipe database for hackers
+description: Eddie's Recipe Database.  Based on Chowhound, the plain text recipe database for hackers
 baseurl: "https://recipes.solace.org"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: t0rque
+twitter_username: torque
 github_username:  edinel
 
 # Build settings
