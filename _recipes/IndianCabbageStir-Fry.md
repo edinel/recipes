@@ -9,7 +9,7 @@ ingredients:
     - 1 pound green cabbage, sliced very thin
     - 2 cloves of garlic, minced
     - 2 teaspoons kosher salt
-    - "&frac12;" teaspoon cayenne or other ground chile
+    - "&frac12; teaspoon cayenne or other ground chile"
     - Yogurt or Raita, to serve.
 
 directions:
@@ -17,4 +17,8 @@ directions:
     - "After the seeds stop sputtering, add the tumeric, sliced cabbage and sautee for a bit."
     - "Add the garlic, salt, and cayenne and toss well."
     - "Cover, reduce the heat to medium, and steam until the cabbage is crisp-tender, about 5 minutes."
-    - Serve hot with a little yogurt or raita.
+    - "Serve hot with a little yogurt or raita."
+    
+    ---
+    Super-duper Tasty
+    
