@@ -1,6 +1,6 @@
----
+--- 
 layout: recipe
-title:  "Indian Cabbage Stir-Fry"
+title: "Indian Cabbage Stir-Fry"
 tags: mains, vegetarian, Indian
 ingredients:
     - "&frac14; cup canola oil"
