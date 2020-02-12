@@ -1,7 +1,6 @@
 --- 
 layout: recipe
 title: "Indian Cabbage Stir-Fry"
-image: "WTF.jpg"
 tags: mains, vegetarian, Indian
 
 ingredients:
