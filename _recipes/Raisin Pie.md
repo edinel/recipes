@@ -1,20 +1,31 @@
-# Raisin Pie
+---
+layout: recipe
+title: Raisin Pie
+image: raisinpie.jpg
+origin: Page 247  Better Homes And Gardens
+tags: dessert, raisins, pie, traditional
 
-##### Page 247, _Better Homes And Gardens_
+ingredients:
+    - "4 eggs, beaten (approx 200 grams)"
+    - "1 &frac13; cup sugar"
+    - "Scant &frac34; teaspoon cinnamon"
+    - "Scant &frac34; teaspoon nutmeg"
+    - "Scant &frac12; teaspoon salt"
+    - "3 &frac14; Tablespoons lemon juice"  
+    - "2 &frac23; Tablespoons butter, melted"
+    - "1 &frac12; cup raisins"
+    - "&frac12; cup broken walnuts"
+    - "1 9-inch _unbaked_ pastry shell" 
 
-* 4 eggs, beaten (approx 200 grams)
-* 1 &frac13; cup sugar
-* Scant &frac34; teaspoon cinnamon
-* Scant &frac34; teaspoon nutmeg
-* Scant &frac12; teaspoon salt
-* 3 &frac14; Tablespoons lemon juice
-* 2 &frac23; Tablespoons butter
-* 1 &frac12; cup raisins
-* &frac12; cup broken walnuts
-* 1 9-inch *unbaked* pastry shell
+directions:
+    - Combine eggs, sugar, spices, salt, lemon juice, and butter.
+    - Stir in raisins and nuts
+    - Pour into pastry shell.
+    - Bake at 375 35-45 minutes, or until filling is just set in center.
+    - serve with whipped cream
 
-1. Combine eggs, sugar, spices, salt, lemon juice, and butter.
-2. Stir in raisins and nuts
-3. Pour into pastry shell.
-4. Bake at 375 35-45 minutes, or until filling is just set in center.
-5. Serve with whipped cream
+
+---
+At first read, this seems like a truly bizarre recipe.  But the lemon juice cuts the sweetness of the raisins, the spices make it super-wintery, and the whipped cream mellows it all out.  It's really quite delicious and unusual these days.
+
+Note that it's also totally reasonable to blind-bake the pie shell first; given the short baking time and low temperature this improves the pie a lot.
