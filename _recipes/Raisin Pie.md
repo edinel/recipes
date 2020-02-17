@@ -13,6 +13,7 @@ ingredients:
     - "Scant &frac12; teaspoon salt"
     - "3 &frac14; Tablespoons lemon juice"  
     - "2 &frac23; Tablespoons butter, melted"
+    - "2 1&frasl;2 Tablespoons butter, melted"
     - "1 &frac12; cup raisins"
     - "&frac12; cup broken walnuts"
     - "1 9-inch _unbaked_ pastry shell" 
