@@ -1,5 +1,6 @@
 --- 
 layout: recipe
+image: default.jpg
 title: "Indian Cabbage Stir-Fry"
 tags: mains, vegetarian, Indian
 
@@ -22,5 +23,5 @@ directions:
     - Serve hot with a little yogurt or raita.
     
 ---
-Super-duper Tasty
-    
+This is a surprisingly savory vegetarian main dish.  Works well with naan, or as a dish served next to Dishoom's black dal.
+
