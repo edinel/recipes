@@ -7,13 +7,12 @@ tags: dessert, raisins, pie, traditional
 
 ingredients:
     - "4 eggs, beaten (approx 200 grams)"
-    - "1 &frac13; cup sugar"
+    - "1 1&frasl;3 cup sugar"
     - "Scant &frac34; teaspoon cinnamon"
     - "Scant &frac34; teaspoon nutmeg"
     - "Scant &frac12; teaspoon salt"
     - "3 &frac14; Tablespoons lemon juice"  
-    - "2 &frac23; Tablespoons butter, melted"
-    - "2 1&frasl;2 Tablespoons butter, melted"
+    - "2 2&frasl;3 Tablespoons butter, melted"
     - "1 &frac12; cup raisins"
     - "&frac12; cup broken walnuts"
     - "1 9-inch _unbaked_ pastry shell" 
