@@ -1,12 +1,11 @@
 # recipes
-This is my porfolio of recipes.  
 
+This is my porfolio of recipes.  
 
 _TODO:_
 
-* Metadata for each recipe (figure out how to do that -- YAML?  )
-* Figure out a display option for these recipes (Perhaps an integrated website like chowdown.io?)
-* Transfer all the content from Evernote 
-* Figure out licensing for the content (Creative commons or whatever)
-* do I really want to deal with frickin Ruby to make a website?
-
+    * Now that I've settled (mostly) on chowdown.io as my display tooling, I need to figure out a few additional things relating to it
+        - Tag organization and displaying
+        - Metadata for each recipe (figure out how to do that -- YAML?  )
+        - Figure out if I can do sub-headings   
+    * Transfer all the content from Evernote 
