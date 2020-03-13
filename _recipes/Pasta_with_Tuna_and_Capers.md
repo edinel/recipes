@@ -23,4 +23,4 @@ directions:
     - Cook pasta in boiling salted water until a minute short of al dente.
     - Drain, and toss into skillet with sauce, mixing and cooking till done.
 ---
-It's a classic for a reason.  Using ricotta makes it a bit less dour than pasta, greens, and sausage can sometimes be, though you probably could skimp a bit on the ricotta without major ill effects.
+
