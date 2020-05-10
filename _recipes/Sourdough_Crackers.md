@@ -15,10 +15,9 @@ directions:
     - Poke lots of holes in it
     - Coat with olive oil
     - Cut into squares with pizza roller
-    - Sprinkle with more salt (should have used more)
+    - Sprinkle with more salt 
     - Bake at 375F 15-20 minutes until brown	
 ---
-This is an awesome way to reuse the sourdough discard that you rack up over the week while baking bread. 
+This is an awesome way to reuse the sourdough discard that you rack up over the week while baking bread.
 
-I like to use sea salt for the topping to get some more interesting flavors.  
-
+I like to use sea salt for the topping to get some more interesting flavors.
