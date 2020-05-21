@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Spaghetti with Tuna and Capers"
-image: "default.jpg"
+image: "tunapasta.jpg"
 tags: pasta, main course, Italian, tuna, fish, tomato
 
 ingredients:
