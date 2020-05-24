@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Sourdough Crackers
-image: default.jpg
+image: sourdoughcrackers.jpg
 tags: crackers, snack, sourdough, leftovers
 
 ingredients:
