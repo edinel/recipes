@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Pasta with Smoked Salmon and Arugala"
-image: SalmonPasta.jpg
+image: salmonpasta.jpg
 origin: Unknown
 tags: main, pasta, salmon, fish
 
