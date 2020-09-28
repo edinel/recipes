@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Kyopoulou"
-image: "default.jpg"
+image: "kyopoulu.jpg"
 tags: side, dip, vegetarian, summer, Bulgaria, eggplant, peppers
 
 ingredients:
