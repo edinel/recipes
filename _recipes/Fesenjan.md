@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Fesenjan"
-image: "default.jpg"
+image: "fesenjan.jpg"
 tags: mains, chicken, pomegranate, Persian, Iranian
 
 ingredients: 
