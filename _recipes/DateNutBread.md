@@ -9,18 +9,18 @@ ingredients:
     - 2 cups boiling water
     - 2 tsp baking soda
     - 2 cups sugar
-    - 1 stick butter
-    - 2 eggs
+    - "1 stick butter"
+    - "2 eggs"
     - "1 Tbsp vanilla"
-    - "3 &frac13; cups all-purpose or whole wheat (or a mix) flour"
-    - 2 cups chopped nuts
+    - "3 &frac13; cups all-purpose flour (or whole wheat (or a mix))"
+    - "2 cups chopped nuts"
 
 
 directions:
     - Pour the boiling water over the dates and baking soda and allow to cool.
     - Cream together butter and sugar; add eggs and vanilla.
     - Blend the date mixture into the butter-sugar mixture, then add in nuts.
-    - Fold in flour. DO NOT OVERMIX
+    - Fold in flour. Don't overmix!  But whole wheat flour makes this less of a risk.
     - Bake at 350° for 30 to 40 minutes, or until a knife inserted comes out clean.
     
 ---
