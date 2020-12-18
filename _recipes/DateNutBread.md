@@ -12,7 +12,7 @@ ingredients:
     - 1 stick butter
     - 2 eggs
     - 1 Tbsp vanilla
-    - 3 1/3 cups flour
+    - "3 &frac13; cups flour"
     - 2 cups chopped nuts
 
 
