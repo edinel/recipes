@@ -12,7 +12,7 @@ ingredients:
     - "1 stick butter"
     - "2 eggs"
     - "1 Tbsp vanilla"
-    - "3 1 &frasl; 3 cups all-purpose flour (whole wheat or a mix of white and whole wheat works well)"
+    - "3 1&frasl;3 cups all-purpose flour (whole wheat or a mix of white and whole wheat works well)"
     - "2 cups chopped nuts"
 
 
