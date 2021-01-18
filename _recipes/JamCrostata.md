@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Jam Crostata"
-image: "default.jpg"
+image: "jamtart.jpg"
 tags: dessert, jam, Italian
 
 ingredients:
