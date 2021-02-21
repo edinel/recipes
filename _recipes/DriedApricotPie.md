@@ -6,15 +6,14 @@ image: default.jpg
 tags: dessert, apricots, pie
 
 ingredients:
-- "5 &frac13; oz dried apricots"
+- "5 &frac13; ounces dried apricots"
 - "1 &frac13; cup boiling water"
-- "5 Tbsp cornstarch"
-- "2 2&frasl;3 cup sugar"
+- "5 tablespoons cornstarch"
+- "2 2&frasl;3 cups sugar"
 - "&frac12; tsp kosher salt"
 - 4 egg whites
 - "&frac12; cup sugar, divided in half"
-- Whipped cream 
-
+- Whipped cream, to top the pie.
 
 directions:
 - Mix together the dried fruit and boiling water and allow to soak for at least 24 hours.
@@ -35,10 +34,10 @@ directions:
 ---
 Dried Apricot Pie, from Pie Marches On by Monroe Boston Strauss
 
-Among the most flavorful of pies are those made with dried fruits—apricots in particular. Although this type of fruit is becoming more and more popular, there are still many restaurateurs who are either not aware of its advantages or who have the mistaken idea that it is too costly for pies. Most of you are well aware of the deliciousness of dried apricots as a breakfast fruit or stewed fruit dessert, but the use of this fruit in pies has been rather neglected. If, however, you will try the recipes given in this chapter, I am certain you will find something which will exceed your expectations. 
+Among the most flavorful of pies are those made with dried fruits—apricots in particular. Although this type of fruit is becoming more and more popular, there are still many restaurateurs who are either not aware of its advantages or who have the mistaken idea that it is too costly for pies. Most of you are well aware of the deliciousness of dried apricots as a breakfast fruit or stewed fruit dessert, but the use of this fruit in pies has been rather neglected. If, however, you will try the recipes given in this chapter, I am certain you will find something which will exceed your expectations.
 
-An important thing to remember is that the apricot mixture on the stove must not be thickened until the egg whites have been beaten and placed in the bowl. If the mix on the stove is allowed to stand after it is thickened, it will form a heavy skin, and as a result your finished pie will be full of lumps. On the other hand, if the egg whites are whipped too far ahead, they will become soft when the hot filling is poured over them and will have a tendency to break down. It is important, therefore, that at the time you beat the egg whites the mix on the stove should be at the boiling point, so that it can be thickened immediately and poured over the top of the egg whites. Then in order to obtain a nice smooth filling, you must fold the egg whites and cooked mix together immediately. 
+An important thing to remember is that the apricot mixture on the stove must not be thickened until the egg whites have been beaten and placed in the bowl. If the mix on the stove is allowed to stand after it is thickened, it will form a heavy skin, and as a result your finished pie will be full of lumps. On the other hand, if the egg whites are whipped too far ahead, they will become soft when the hot filling is poured over them and will have a tendency to break down. It is important, therefore, that at the time you beat the egg whites the mix on the stove should be at the boiling point, so that it can be thickened immediately and poured over the top of the egg whites. Then in order to obtain a nice smooth filling, you must fold the egg whites and cooked mix together immediately.
 
- The crust on which this apricot whip filling is to be placed is also an important part of the pie. The filling is light and very delicate and should, therefore, be placed on a pie shell which has been rolled comparatively thin and baked very crisp. A thick, underbaked shell would detract from the delicacy of the pie, so be sure to use a thin, well-baked shell —preferably baked over the bottom of the tin. 
+ The crust on which this apricot whip filling is to be placed is also an important part of the pie. The filling is light and very delicate and should, therefore, be placed on a pie shell which has been rolled comparatively thin and baked very crisp. A thick, underbaked shell would detract from the delicacy of the pie, so be sure to use a thin, well-baked shell —preferably baked over the bottom of the tin.
 
-For still better results, use the rolled-in graham cracker shell described elsewhere (it's basically make flour out of graham cracker crumbs and roll out your pie dough in *that*.
+For still better results, use the rolled-in graham cracker shell described elsewhere.  (it's basically make flour out of graham cracker crumbs and roll out your pie dough in *that*.)
