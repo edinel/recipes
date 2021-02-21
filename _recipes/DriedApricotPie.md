@@ -6,19 +6,19 @@ image: default.jpg
 tags: dessert, apricots, pie
 
 ingredients:
-- 5 1/3 oz dried apricots
-- 1 1/3 cup boiling water
-- 5 Tbsp cornstarch
-- 2/3 cup sugar
-- 1/2 tsp kosher salt
+- "5 &frac13; oz dried apricots"
+- "1 &frac13; cup boiling water"
+- "5 Tbsp cornstarch"
+- "2 2&frasl;3 cup sugar"
+- "&frac12; tsp kosher salt"
 - 4 egg whites
-- 1/2 cup sugar, divided in half
+- "&frac12; cup sugar, divided in half"
 - Whipped cream 
 
 
 directions:
 - Mix together the dried fruit and boiling water and allow to soak for at least 24 hours.
-- Do not stir the fruit while it is soaking or you will break it up and destroy the appearance, and do not place it in the icebox during the soaking period. (Chilling would retard the softening of the apricots and it would require several days of soaking before the fruit would be soft enough to use.)
+- Do not stir the fruit while it is soaking or you will break it up and destroy the appearance, and do not place it in the refridgerator during the soaking period. (Chilling would retard the softening of the apricots and it would require several days of soaking before the fruit would be soft enough to use.)
 - After this twenty-four hour soaking, you will find that the apricots have absorbed about two-thirds of the water in which they were soaked. Pass the entire mix (water, apricots and all) through a Foley food mill or a fine flour sieve. 
 - The apricots should be rubbed through so as not to lose any of the pulp. 
 - The skins which are left in the food mill or sieve are not to be used, but the pulp which sticks to the bottom should be scraped off and included in the mix. 
