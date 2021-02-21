@@ -6,8 +6,8 @@ image: default.jpg
 tags: dessert, apricots, pie
 
 ingredients:
-- "5 &frac13; ounces dried apricots"
-- "1 &frac13; cup boiling water"
+- "5 1&frasl;3 ounces dried apricots"
+- "1 1&frasl;3 cup boiling water"
 - "5 tablespoons cornstarch"
 - "2 2&frasl;3 cups sugar"
 - "&frac12; tsp kosher salt"
