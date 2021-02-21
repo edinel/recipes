@@ -7,9 +7,9 @@ tags: dessert, apricots, pie
 
 ingredients:
 - "5 1&frasl;3 ounces dried apricots"
-- "1 1&frasl;3 cup boiling water"
+- "10 &frac34; oz boiling water (1 1&frasl;3 cup)"
 - "5 tablespoons cornstarch"
-- "2 2&frasl;3 cups sugar"
+- "2&frasl;3 cups sugar"
 - "&frac12; tsp kosher salt"
 - 4 egg whites
 - "&frac12; cup sugar, divided in half"
@@ -21,8 +21,8 @@ directions:
 - After this twenty-four hour soaking, you will find that the apricots have absorbed about two-thirds of the water in which they were soaked. Pass the entire mix (water, apricots and all) through a Foley food mill or a fine flour sieve. 
 - The apricots should be rubbed through so as not to lose any of the pulp. 
 - The skins which are left in the food mill or sieve are not to be used, but the pulp which sticks to the bottom should be scraped off and included in the mix. 
-- Hold out enough of this pulp and water mixture to dissolve cornstarch in a slurry.
-- Place the balance in a pot and heat with 2/3 cup sugar and salt, and heat over a slow fire.
+- Hold out enough of this pulp and water mixture to dissolve the 5 Tbsp cornstarch into a slurry.
+- Place the rest in a pot, mix in with 2/3 cup sugar and salt, and heat over a slow fire.
 - While this is coming to a boil, beat the 4 egg whites to stiff peaks with 1/4 cup of sugar.
 - When eggs are beaten, add the remaining quarter cup sugar and beat just until dissolved.
 - After this has been done turn the fire on full force under the apricot mixture. When it reaches a good boil, add the cornstarch slurry and cook until thick and clear. 
