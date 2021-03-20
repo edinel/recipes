@@ -33,4 +33,3 @@ directions:
 
 Classic Irish soda bread doesn't have any of the caraway or raisins or the other sometimes random things added to it.  
 It's perfect for St Patrick's Day, and really, really, really, really wants butter.
-
