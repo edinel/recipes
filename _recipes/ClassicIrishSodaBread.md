@@ -12,6 +12,7 @@ ingredients:
 - "1 &frac12; tsp baking soda"
 - "1 &frac12; tsp cream of tartar"
 - "2 Tbsp butter, softened"
+- "1 Tbsp Diamond Crystal Kosher salt"
 - "1 &frac12; cups buttermilk"
 - "1 Tbsp Butter, melted, for brushing"
 
@@ -29,7 +30,6 @@ directions:
 
 
 ---
-Dried Apricot Pie, from Pie Marches On by Monroe Boston Strauss
 
 Classic Irish soda bread doesn't have any of the caraway or raisins or the other sometimes random things added to it.  
 It's perfect for St Patrick's Day, and really, really, really, really wants butter.
