@@ -1,29 +1,29 @@
 --- 
 layout: recipe
-image: default.jpg
 title: "Cacciucco alla Livornese (Cioppino)"
+image: default.jpg
 tags: mains, fish, Italian
 
 ingredients:
 - "6 T olive oil"
 - "1 large onion, finely chopped"
-- 2 carrots, finely chopped. 
-- 3 ribs celery, finely chopped
-- 4 cloves garlic
-- 2 T parsley, coarsely chopped
-- 1 large bay leaf
-- 1/2 t dried thyme
-- 1/2 t dried rosemary
-- 1 14-Oz can Italian plum tomatoes with liquid
-- 1/4 tsp hot pepper flakes
-- 1 cup dry red or white wine
-- 2 cups fish stock
-- 1 t finely minced lemon peel
-- 2 lbs assorted firm, white-fleshed fish, such as sea bass, halibut, pollock, tilefish, and/or ocean perch depending upon region and seasonal availability, cut into 2-inch pieces
-- 3/4 lb sea scallops
-- 3/4 lb medium shrimp
-- 1/2 lb small squid
-- 3T finely shredded basil
+- "2 carrots, finely chopped"
+- "3 ribs celery, finely chopped"
+- "4 cloves garlic"
+- "2 T parsley, coarsely chopped"
+- "1 large bay leaf"
+- "1/2 t dried thyme"
+- "1/2 t dried rosemary"
+- "1 14-Oz can Italian plum tomatoes with liquid"
+- "1/4 tsp hot pepper flakes"
+- "1 cup dry red or white wine"
+- "2 cups fish stock"
+- "1 t finely minced lemon peel"
+- "2 lbs assorted firm, white-fleshed fish, such as sea bass, halibut, pollock, tilefish, and/or ocean perch depending upon region and seasonal availability, cut into 2-inch pieces"
+- "3/4 lb sea scallops"
+- "3/4 lb medium shrimp"
+- 1/2 lb small squid"
+- 3T finely shredded basil"
 
 
 directions:
