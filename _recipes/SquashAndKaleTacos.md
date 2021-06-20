@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Butternut Squash and Kale Tacos with Cashew Crema"
 image: "default.jpg"
+author: "Tacolicious Cookbook"
 tags: main, vegan, summer, Mexican
 
 ingredients:
