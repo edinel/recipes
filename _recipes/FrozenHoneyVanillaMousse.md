@@ -13,7 +13,7 @@ ingredients:
 -  "&frac14; cup powdered sugar"
 
 directions:
-- "Whip Cream in chilled bowl until stiff"
+- "Whip cream in chilled bowl until stiff"
 - "In a mixing bowl, beat egg yolks until frothy.  Add honey and vanilla and beat until light, thick, and pale, about 5-10 minutes"
 - "Folds in whipped cream.  Pour into an 8-by-4 inch rectangular baking dish and freeze for at least six hours."
 - "For sauce: Puree berries with powedered sugar in a food processor."
