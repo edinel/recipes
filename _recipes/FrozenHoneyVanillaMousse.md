@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Froze Honey-Vanilla Mousse"
+title:  "Frozen Honey-Vanilla Mousse"
 image: default.jpg
 tags: dessert, honey, pie
 
