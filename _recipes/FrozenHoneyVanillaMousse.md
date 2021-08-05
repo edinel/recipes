@@ -25,3 +25,6 @@ directions:
 
 ---
 This dessert makes for an elegant presentation, with the honey mousse centered atop a dark blackberry sauce.  Garnished with mint, it is beautiful served on a plain white dish.  The mousse is easy to make, but requires freezing, so enjoy it when you are preparing other dishes that take more time.
+
+Mousse may be kept in freezer up to 2 weeks, covered tightly.  Do not thaw before serving.  
+Sauce may be kept up to 5 days in refridgerator.  
