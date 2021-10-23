@@ -9,7 +9,7 @@ ingredients:
     - 102 grams sea salt
     - 45 grams turmeric
     - 2 Tbsp white vinegar
-    - 2 cup mustard oil
+    - 1 cup mustard oil
     - 1 cup olive oil
     - 2 Tbsp asafoetida ('hing')
     - 1 cup brown mustard seeds
