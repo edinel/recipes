@@ -5,13 +5,13 @@ image: default.jpg
 tags: cookies, dessert
 
 ingredients:
-    - "1 &frac12; cups (7 1/2 ounces) all purpose flour"
+    - "1 &frac12; cups (7 &frac12; ounces) all purpose flour"
     - 1 teaspoon kosher salt
     - "&frac14; teaspoon fresh ground nutmeg"
     - "&frac12; teaspoon baking powder"
     - "2 sticks (&frac12; pound), butter softened but still firm"
     - 1 cup (7 ounces) light brown sugar
-    - "7&frasl; 8 cup (7 ounces) granulated sugar"
+    - "7&frasl;8 cup (7 ounces) granulated sugar"
     - 2 eggs
     - grated zest of one orange
     - 3 cups (240 grams) rolled oats 
@@ -31,13 +31,11 @@ directions:
     - Form dough into sixteen to twenty 2-inch balls, placing each dough round onto one of two parchment paper–covered, large cookie sheets. 
     - Bake until cookie edges turn golden brown, 22 to 25 minutes. (The cookies will be even more perfect if halfway during baking, turn cookie sheets from front to back and also switch them from top to bottom.) 
     - Slide cookies on parchment onto cooling rack. Let cool at least 30 minutes before serving.
-    - 
-
 ---
-In my junior year of college, I lived in a "row house" (think: fraternity house, but coed and no fraternity.  It was a wonderful housing situation.)  
-We had a truly amazing cook who made desserts that were beyond spectacular (some of which had more butter in them by weight than flour...).  
+In my junior year of college, I lived in a "row house"--basically a fraternity house, but run by the university, coed, and no fraternity.    
+We had a truly amazing cook who made desserts that were beyond spectacular.  Some of them had more butter in them by weight than flour.
 
 One of my favorites was always her oatmeal cookies, with cranberries and white chocolate.  
-Eventually I asked, and she told methat grated orange zest was her secret to making the flavors all work together come together.
+Eventually I learned that grated orange zest was her secret to making the flavors all work together perfectly.
 
 This recipe is unabashedly inspired by Janice's cookies from Storey House. 
