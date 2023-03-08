@@ -5,6 +5,7 @@ author: "Cooks Illustrated"
 image: default.jpg
 tags: Holiday, Main Course
 
+
 ingredients:
 - "&frac 12; cup diamond crystal kosher salt"
 - "1 tablespoon black peppercorns , cracked"
@@ -17,12 +18,10 @@ ingredients:
 directions:
 - "Mix salt and seasonings together in a bowl"
 - "Spear brisket 30 or so times per side with meat fork or metal skewer"
-- "Rub each side evenly with mixture.
+- "Rub each side evenly with mixture."
 - "Place in a 2-gallon Ziploc bag (Jumbo) and seal, forcing out as much air as possible"
 - "Place in pan large enough to hold it (a sheet pan is good for this), cover with a second, similar sized pan, and weight down with bricks or cans."
 - "Refridgerate 5-7 days, flipping once per day"
-
-
 
 ---
 
