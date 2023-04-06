@@ -6,7 +6,7 @@ image: default.jpg
 tags: Holiday, Main Course
 
 ingredients:
-- "&frac 12; cup diamond crystal kosher salt"
+- "&frac12; cup diamond crystal kosher salt"
 - "1 tablespoon black peppercorns , cracked"
 - "&frac34; tablespoon ground allspice"
 - "1 tablespoon dried thyme"
