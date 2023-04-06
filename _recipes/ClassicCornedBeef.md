@@ -5,7 +5,6 @@ author: "Cooks Illustrated"
 image: default.jpg
 tags: Holiday, Main Course
 
-
 ingredients:
 - "&frac 12; cup diamond crystal kosher salt"
 - "1 tablespoon black peppercorns , cracked"
