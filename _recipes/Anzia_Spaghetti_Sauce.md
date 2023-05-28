@@ -1,22 +1,22 @@
 ---
 layout: recipe
-title:  "Eddie's Spaghetti Sauce -- Inspired by the Anzia Family Recipe"
+title:  "Eddie's Spaghetti Sauce (Inspired by the Anzia Family Recipe)"
 image: "default.jpg"
 tags: pasta, main course, Italian, beef, tomato
 
 ingredients:
-   - 1 onion, diced
-   - 1 green pepper, diced
-   - 2 lbs ground beef
+   - "1 onion, diced"
+   - "1 green pepper, diced"
+   - "2 lbs ground beef"
    - "&frac13; - &frac12; lb mushrooms, sliced."
    - "2 cloves garlic, pressed or finely chopped"
-   - 1 28 oz can of peeled tomatoes (with basil is ok)
-   - 2 14 oz. cans of tomato sauce
-   - 12 oz. tomato paste (two 6-oz cans)
+   - "1 28 oz can of peeled tomatoes (with basil is ok)"
+   - "2 14 oz. cans of tomato sauce"
+   - "12 oz. tomato paste (two 6-oz cans)"
    - "dried oregano"
    - "dried basil"
    - "&frac14; - &frac13; cup dried parsley flakes"
-   - 2 bay leaves
+   - "2 bay leaves"
    
 
 directions:
@@ -31,4 +31,4 @@ directions:
 
  At long last, here it is... the famous Anzia family spaghetti sauce, originally adapted by Loretta Dillon, later improved upon by Dan Anzia, given to me by his eldest daughter Carolyn, and further slightly modified by me.  
 
- It's a classic Italian red sauce. 
+ It's a classic Italian red sauce.
