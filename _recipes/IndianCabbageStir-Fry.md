@@ -24,4 +24,3 @@ directions:
     
 ---
 This is a surprisingly savory vegetarian main dish.  Works well with naan, or as a dish served next to Dishoom's black dal.
-

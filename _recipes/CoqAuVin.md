@@ -5,7 +5,7 @@ image: coq-au-vin.jpg
 tags: mains, chicken, French
 
 ingredients:
--  1 &frac12; lbs Brown or cremini Mushrooms
+- "1 &frac12; lbs Brown or cremini Mushrooms"
 - "&frac12; lb Maitake (hen-of-the-woods) mushrooms"
 - 3 large carrots
 - A stalk or two of celery
