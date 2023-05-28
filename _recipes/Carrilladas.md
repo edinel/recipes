@@ -9,10 +9,10 @@ ingredients:
 - 1 &frac12; pounds pork cheeks
 - 1 Tbsp flour (seasoned well with salt and pepper)
 - 3 garlic cloves, minced
-- &frac12; teaspoon ground cumin
+- "&frac12; teaspoon ground cumin"
 - 1 teaspoon sweet smoked paprika
 - 1 cinnamon stick
-- &frac12; cup dry red wine
+- "&frac12; cup dry red wine"
 - 2 cups pork stock
 
 directions:
