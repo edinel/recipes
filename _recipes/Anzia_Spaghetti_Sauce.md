@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Eddie's Spaghetti Sauce (Inspired by the Anzia Family Recipe)"
+title:  "Classic (Anzia) Spaghetti Sauce"
 image: "default.jpg"
 tags: pasta, main course, Italian, beef, tomato
 
