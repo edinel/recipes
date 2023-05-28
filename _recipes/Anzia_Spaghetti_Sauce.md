@@ -20,11 +20,11 @@ ingredients:
    
 
 directions:
-    - Sautee onions and peppers until soft. Add ground beef, and continue sauteeing until meat is well browned.
-    - Meanwhile, brown garlic in large dutch oven. Add the sliced mushrooms and sautee until soft. Add tomato sauce and whole tomatoes, mashing whole tomatoes up by hand or with a wooden spoon. large pot. Add parsley and bay leaves.
-    - Add the tomato paste to the meat mixture, browning it very slightly in the bottom of the pan. Add a bit of tomato mixture to the meat to deglaze the pan, pouring this mixture back into the tomato mixture.
-    - Sprinkle enough oregano to completely cover the center half of the pot. Add a few shakes of basil. Season to taste, of course.
-    - Let simmer on low for about an hour, stirring occasionally. Makes 12-16 servings, which freeze extremely well.
+    - "Sautee onions and peppers until soft. Add ground beef, and continue sauteeing until meat is well browned."
+    - "Meanwhile, brown garlic in large dutch oven. Add the sliced mushrooms and sautee until soft. Add tomato sauce and whole tomatoes, mashing whole tomatoes up by hand or with a wooden spoon. large pot. Add parsley and bay leaves."
+    - "Add the tomato paste to the meat mixture, browning it very slightly in the bottom of the pan. Add a bit of tomato mixture to the meat to deglaze the pan, pouring this mixture back into the tomato mixture."
+    - "Sprinkle enough oregano to completely cover the center half of the pot. Add a few shakes of basil. Season to taste, of course."
+    - "Let simmer on low for about an hour, stirring occasionally. Makes 12-16 servings, which freeze extremely well."
 
 ---
 
