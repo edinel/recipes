@@ -27,9 +27,6 @@ directions:
     - "Let simmer on low for about an hour, stirring occasionally. Makes 12-16 servings, which freeze extremely well."
 
 ---
-
-
  At long last, here it is... the famous Anzia family spaghetti sauce, originally adapted by Loretta Dillon, later improved upon by Dan Anzia, given to me by his eldest daughter Carolyn, and further slightly modified by me.  
-
 
  It's a classic Italian red sauce.
