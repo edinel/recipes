@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Spaghetti with Anchovies, Walnuts, and Raisins"
-image: default.jpg
+image: anchovies-walnuts-raisins.jpg
 tags: pasta, fish, pantry, main
 
 ingredients:
