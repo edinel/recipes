@@ -28,4 +28,3 @@ directions:
 
 ---
 This used to be published at seriouseats.com but has been taken offline.
-
