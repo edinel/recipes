@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Stuffed Acorn Squash with Cranberries and Wild Rice"
-image: default.jpg
+image: Acornsquash.jpg
 tags: Vegetarian, main, squash
 
 ingredients: 
@@ -20,7 +20,7 @@ ingredients:
 
 directions:
 - Adjust oven rack to middle position and preheat oven to 375°F (190°C).
-- Clean squash, removing the point at the bottom to use as a lid and removing all seeds and fobers.  
+- Clean squash, removing the point at the bottom to use as a lid and removing all seeds and fibers.  
 - Place squash on a rimmed baking sheet, season lightly with salt and pepper, and drizzle each squash with 1/2 teaspoon olive oil. Bake for 45 minutes, then remove from oven.
 - In the meantime, prepare the stuffing: heat 2 tablespoons olive oil in a large cast iron skillet over medium heat until shimmering. Add onion, garlic and thyme and cook, stirring occasionally, until onion sweats but does not brown, about 4 minutes. 
 - Add cooked white rice and cooked wild rice to the skillet and stir to combine. 
