@@ -27,7 +27,7 @@ directions:
 - "Meanwhile, in a large stockpot, melt the butter in the olive oil, and sautee celery and parsley until starting to brown."   
 - "Add herbs, salt, and tabasco and cook for a few minutes."
 - "Stir in stuffing cubes and water.  Cook and stir till the cubes begin to break down and simmer for no more than 30 minutes!  It will try to brown and stick to the pan here.  Keep it moving!"
-- "When the turkey is done, add the drippings and juices to the stuffing, and reheat, stirring.   
+- "When the turkey is done, add the drippings and juices to the stuffing, and reheat, stirring."
 
 ---
 
