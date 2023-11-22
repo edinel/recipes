@@ -22,13 +22,13 @@ ingredients:
 - "1 package Pepperidge Farm Stuffing Cubes"
 
 directions:
-- "In a skillet, brown and drain ground beef and sausage.  Leaving the pieces larger will be to your advantage later."
-- "Remove the fat from the pan, then deglaze the pan with the water, scraping up all the fond.  Pour that liquid into a measuring cup and top up till you have 1 &frac14; cups"
-- "Meanwhile, in a large stockpot, melt the butter in the olive oil, and sautee celery and parsley until starting to brown."   
-- "Add herbs, salt, and tabasco and cook for a few minutes."
-- "Stir in stuffing cubes and the water from the above steps. Cook and stir till the cubes begin to break down and simmer for no more than 30 minutes!  It will try to brown and stick to the pan here.  Keep it moving!"
-- "When the turkey is done, add the drippings and juices to the stuffing, and reheat, stirring."
-    
+- In a skillet, brown and drain ground beef and sausage.  Leaving the pieces larger will be to your advantage later.
+- Remove the fat from the pan, then deglaze the pan with the water, scraping up all the fond.  Pour that liquid into a measuring cup and top up till you have 1 &frac14; cups
+- Meanwhile, in a large stockpot, melt the butter in the olive oil, and sautee celery and parsley until starting to brown.
+- Add herbs, salt, and tabasco and cook for a few minutes.
+- Stir in stuffing cubes and the water from the above steps. Cook and stir till the cubes begin to break down and simmer for no more than 30 minutes!  It will try to brown and stick to the pan here.  Keep it moving!
+- When the turkey is done, add the drippings and juices to the stuffing, and reheat, stirring.
+ 
 ---
 It doesn't feel like the holidays until the house smells like this recipe baking.  
 I like to under-bake it just a little (or let it soak in humidity for a day or two) so the center gets a bit candy-like.  

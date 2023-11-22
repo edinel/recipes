@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Dinel Family Stuffing"
 author: "Eddie Dinel"
-image: default.jpg
+image: "default.jpg"
 tags: "Holiday", "Side Dish"
 
 
