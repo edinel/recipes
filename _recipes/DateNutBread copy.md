@@ -32,4 +32,4 @@ directions:
 It doesn't feel like the holidays until the house smells like this recipe baking.  
 I like to under-bake it just a little (or let it soak in humidity for a day or two) so the center gets a bit candy-like.  
 
-It's the best!
+It's the best
