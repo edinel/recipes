@@ -21,7 +21,6 @@ ingredients:
 - "2 cans water chestnuts, sliced"
 - "1 package Pepperidge Farm Stuffing Cubes"
 
-
 directions:
 - "In a skillet, brown and drain ground beef and sausage.  Leaving the pieces larger will be to your advantage later.  Remove the fat from the pan, then deglaze the pan with the water, scraping up all the fond.  Pour that liquid into a measuring cup and top up till you have 1 &frac14; cups"
 - "Meanwhile, in a large stockpot, melt the butter in the olive oil, and sautee celery and parsley until starting to brown."   
