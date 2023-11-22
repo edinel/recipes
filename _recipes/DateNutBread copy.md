@@ -1,9 +1,8 @@
 --- 
 layout: recipe
 title:  "Dinel Family Stuffing"
-author: "Eddie Dinel"
 image: "default.jpg"
-tags: "Holiday", "Side Dish"
+tags: holiday, side-dish
 
 ingredients:
 - "&frac12; lb ground beef"
