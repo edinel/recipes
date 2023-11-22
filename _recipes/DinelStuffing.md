@@ -5,6 +5,7 @@ author: "Eddie Dinel"
 image: default.jpg
 tags: "Holiday", "Side Dish"
 
+
 ingredients:
 - "&frac12; lb ground beef"
 - "&frac12; lb breakfast sausage"
@@ -21,6 +22,7 @@ ingredients:
 - "2 cans water chestnuts, sliced"
 - "1 package Pepperidge Farm Stuffing Cubes"
 
+
 directions:
 - "In a skillet, brown and drain ground beef and sausage.  Leaving the pieces larger will be to your advantage later."
 - "Remove the fat from the pan, then deglaze the pan with the water, scraping up all the fond.  Pour that liquid into a measuring cup and top up till you have 1 &frac14; cups"
@@ -29,6 +31,8 @@ directions:
 - "Stir in stuffing cubes and the water from the above steps. Cook and stir till the cubes begin to break down and simmer for no more than 30 minutes!  It will try to brown and stick to the pan here.  Keep it moving!"
 - "When the turkey is done, add the drippings and juices to the stuffing, and reheat, stirring."
 
+
 ---
+
 
 This is THE stuffing that our family has eaten for my entire life.  It's comforting, has good textural contrasts, and is really easy to bring together. 
