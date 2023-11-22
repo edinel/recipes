@@ -31,4 +31,4 @@ directions:
 
 ---
 
-This is THE stuffing that our family has eaten for my entire life.  It's comforting, has good textural contrasts, and is really easy to bring together.  
+This is THE stuffing that our family has eaten for my entire life.  It's comforting, has good textural contrasts, and is really easy to bring together. 
