@@ -26,4 +26,3 @@ This recipe makes about a pint.
 Sephardi charoset doesn't contain apples and is *magnificent*.  I like it better than the ashkenazi style.
 
 Best of all, it freezes great for future years and makes a wonderful sauce (when mixed with stock) for duck and pork.
-
