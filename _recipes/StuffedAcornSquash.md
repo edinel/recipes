@@ -9,7 +9,7 @@ ingredients:
 - "1 medium onion, finely chopped (about 1 cup)"
 - "2 medium garlic cloves, minced (about 2 teaspoons)"
 - "1 teaspoon chopped fresh thyme"
-- "1 cup cooked long-grain white rice (&frac12 cup raw rice)"
+- "1 cup cooked long-grain white rice (&frac12; cup raw rice)"
 - "&frac12; cup wild rice, boiled in 2 cups water for 30 minutes, then drained"
 - "&frac14; cup pecans, toasted and finely chopped"
 - "&frac12; cup dried cranberries"
