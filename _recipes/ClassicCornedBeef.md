@@ -20,8 +20,9 @@ directions:
 - "Rub each side evenly with mixture."
 - "Place in a 2-gallon Ziploc bag (Jumbo) and seal, forcing out as much air as possible"
 - "Place in pan large enough to hold it (a sheet pan is good for this), cover with a second, similar sized pan, and weight down with bricks or cans."
-- "Refridgerate 5-7 days, flipping once per day"
+- "Refrigerate 5-7 days, flipping once per day"
 
 ---
 
-When I made my own corned beef for the first time it was a revelation.  Can't recommend it strongly enough!
+When I made my own corned beef for the first time it was a revelation.  Can't recommend it strongly enough!  This is the first part of the recipe--where you actually, you know, cure the beef.  After this, it's simmered in water for a couple hours till super-tender, then sliced and served with roasted (preferably) or boiled vegetables for St. Patrick's Day.  Or just boiled for corned beef sandwiches.  Or smoked with a rub for pastrami.  You get the idea!  
+
