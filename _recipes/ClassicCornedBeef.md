@@ -20,7 +20,7 @@ directions:
 - "Rub each side evenly with mixture."
 - "Place in a 2-gallon Ziploc bag (Jumbo) and seal, forcing out as much air as possible"
 - "Place in pan large enough to hold it (a sheet pan is good for this), cover with a second, similar sized pan, and weight down with bricks or cans."
-- "Refriderate 5-7 days, flipping once per day"
+- "Refrigerate 5-7 days, flipping once per day"
 
 ---
 
