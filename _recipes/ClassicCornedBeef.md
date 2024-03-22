@@ -7,6 +7,7 @@ tags: Holiday, Main Course
 
 ingredients:
 - "&frac12; cup diamond crystal kosher salt"
+- 10% of above salt can be replaced by pink salt if you want a nitrated corned beef
 - "1 tablespoon black peppercorns , cracked"
 - "&frac34; tablespoon ground allspice"
 - "1 tablespoon dried thyme"
