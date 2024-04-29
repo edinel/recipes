@@ -6,7 +6,7 @@ image: default.jpg
 tags: Lunch
 
 ingredients:
-- a pinch of hing/asafoetida
+- "a pinch of hing/asafoetida"
 - "&frac14; cup ginger-garlic paste (really about a tablespoon of each and two tablespoons of water"
 - "1 teaspoon kashmiri chili powder"
 - "&frac12; tsp turmeric"
@@ -39,3 +39,4 @@ directions:
 ---
 
 I made dal!  Without cream!  It turned out well, so I'm writing down what I did. 
+
