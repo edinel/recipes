@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Kali Dal"
 author: "Various"
-image: default.jpg
+image: "default.jpg"
 tags: Lunch
 
 ingredients:
@@ -25,7 +25,7 @@ ingredients:
 directions:
 - "Heat oil.  Add pinch of hing and let bloom for 30 seconds."
 - "Add a red onion and sautee till beginning to brown."
-- "Add &frac14; cup of ginger-garlic paste (1 tbsp of each and about 2 tbsp of water, honestly)" and cook for a minute or until just beginning to stick."
+- "Add &frac14; cup of ginger-garlic paste (1 tbsp of each and about 2 tbsp of water, honestly) and cook for a minute or until just beginning to stick."
 - "Add  kashmiri chili, turmeric, coriander powder, amchur and bloom in the hot oil."
 - "Add tomatoes, aand cinnamon leaf, stirring well to prevent browning.  If you have some tomato paste, add it now"
 - "Cook this all together until it starts to pull away from the sides of the pan.  You’ll have around a pint and a half.  You can chill this overnight in the fridge."
