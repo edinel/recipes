@@ -38,5 +38,5 @@ directions:
 
 ---
 
-I made dal!  Without cream!  It turned out well, so I'm writing down what I did. 
+I made dal!  Without cream!  It turned out well, so I'm writing down what I did. and didn't do.
 
