@@ -23,13 +23,13 @@ ingredients:
 - "1/4 lb red kidney beans"
 
 directions:
+- Wash urad dal and kidney beans, then brine overnight in 2 quarts of water with 3 tablespoons of kosher salt dissolved into it."
 - "Heat oil.  Add pinch of hing and let bloom for 30 seconds."
 - "Add a red onion and sauté until beginning to brown."
 - "Add ginger-garlic paste and cook for a minute or until just beginning to stick."
 - "Add  kashmiri chili, turmeric, coriander powder, amchur and bloom in the hot oil."
 - "Add tomatoes, & cinnamon leaf, stirring well to prevent browning.  If you have some tomato paste, add it now"
 - "Cook this all together until it starts to pull away from the sides of the pan.  You’ll have around a pint and a half.  You can chill this overnight in the fridge."
-- Wash urad dal and kidney beans, then brine overnight in 2 quarts of water with 3 tablespoons of kosher salt dissolved into it."
 - "Drain and add beans to pressure cooker, covering with 2 inches of water.  Add a big pinch of salt."
 - "Pressure cook 90 minutes.  When complete, let the pressure reduce naturally (though rapidly releasing won't kill anything)"
 - "Remove lid, turn the cooker back on, and add the tomato mixture along with a fat teaspoon of garam masala and cumin seed.  If you want to be motivated, you can bloom this in some hot ghee before adding."
@@ -37,5 +37,7 @@ directions:
 
 ---
 
-"I made dal!  Without cream!  It turned out well, so I'm writing down what I did. and didn't do.
-aa
+I made dal!  Without cream!  It turned out well, so I'm writing down what I did. and didn't do.
+
+Best served over rice, with a piece of naan to go with.  
+
