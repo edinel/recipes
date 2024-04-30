@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Sephardi-Style Charoset"
 author: "Eddie Dinel"
-image: default.jpg
+image: sephardi_charoset.jpg
 tags: Holiday, Side Dish
 
 ingredients:
