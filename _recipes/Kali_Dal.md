@@ -4,6 +4,8 @@ title:  "Kali Dal"
 author: "Various"
 image: "kali_dal.jpg"
 tags: Lunch
+recipeCategory: "Lunch"
+recipeCuisine: "Indian"
 
 ingredients:
 - "a pinch of hing/asafoetida"
