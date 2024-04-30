@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Kali Dal"
 author: "Various"
-image: "default.jpg"
+image: "kali_dal.jpg"
 tags: Lunch
 
 ingredients:
