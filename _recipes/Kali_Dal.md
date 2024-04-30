@@ -22,7 +22,7 @@ ingredients:
 - "1 tsp garam masala"
 - "1 tsp cumin seed"
 - "1 lb whole black urad dal"
-- "1/4 lb red kidney beans"
+- "&frac14; lb red kidney beans"
 
 directions:
 - Wash urad dal and kidney beans, then brine overnight in 2 quarts of water with 3 tablespoons of kosher salt dissolved into it."
