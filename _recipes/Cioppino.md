@@ -1,7 +1,7 @@
 --- 
 layout: recipe
 title: "Cacciucco alla Livornese (Cioppino)"
-image: default.jpg
+image: cioppino.jpg
 tags: mains, fish, Italian
 
 ingredients:
