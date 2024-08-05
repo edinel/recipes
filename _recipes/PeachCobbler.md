@@ -29,7 +29,7 @@ directions:
     - "Slice each peach half into 4 wedges.  Toss the wedges with 1/4 cup of sugar and let stand for 30 minutes, tossing a few times."
     - "Drain peaches, discarding all but &frac14; of the juice"
     - "Mix juice with a pinch of salt, tapioca starch, lemon juice, cinnamon, and almond extract, and toss with peaches"
-    - "Note: The filling can be frozen at this stage and defrosted to bake in the winter, when peaches aren't around"  
+    - "<i>Note: The filling can be frozen at this stage and defrosted to bake in the winter, when peaches aren't around</i>"  
     - "Pour into an 8x8 dish and bake until beginning to bubble around the edges, about 15 or 20 minutes"
     - "Meanwhile, make the topping.  Do not start this before beginning the baking or the biscuits won't rise properly"
     - "In a food processor or by hand blend flour, cornmeal, 3 Tablespoons sugar, baking powder, baking soda, lemon zest, and salt to combine"
