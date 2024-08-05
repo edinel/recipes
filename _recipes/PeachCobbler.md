@@ -21,7 +21,7 @@ ingredients:
     - "&frac12; teaspoon kosher salt"
     - "Grated zest of one lemon" 
     - "5 Tablespoons (71 grams) unsalted butter cold, cut into 1/4-inch cubes"
-    - "&frac13; cup plain whole-milk yogurt"
+    - "&frac34; cup plain whole-milk yogurt"
     - "1 teaspoon granulated or demerara sugar, for sprinkling"
     
 directions:
