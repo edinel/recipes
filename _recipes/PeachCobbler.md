@@ -9,8 +9,8 @@ ingredients:
     - "&frac14; cup sugar"
     - "&frac14; cup tapioca starch"
     - "1 fat Tablespoon lemon juice"
-    - "Scant &frac14; teaspoon cinnamon \n
-    (or more, if you should want a peach-cinnamon cobbler)"
+    - "Scant &frac14; teaspoon cinnamon \\n
+    (or more, if you'd like a peach-cinnamon cobbler)"
     - "2 drops almond extract (optional)"
     - "1 cup unbleached all-purpose flour less 2 tablespoons 
     (112 grams)"
