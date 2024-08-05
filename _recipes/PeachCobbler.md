@@ -8,10 +8,12 @@ ingredients:
     - "3 lbs (1360 grams) peeled, pitted, and halved peaches"
     - "&frac14; cup sugar"
     - "&frac14; cup tapioca starch"
-    - "1 fat Tablespoonlemon juice"
-    - "scant &frac14; teaspoon cinnamon (or more, if you want a peach-cinnamon cobbler)"
+    - "1 fat Tablespoon lemon juice"
+    - "Scant &frac14; teaspoon cinnamon 
+    (or more, if you want a peach-cinnamon cobbler)"
     - "2 drops almond extract (optional)"
-    - "1 cup unbleached all-purpose flour less 2 tablespoons (118 grams)"
+    - "1 cup unbleached all-purpose flour less 2 tablespoons 
+    (112 grams)"
     - "2 Tablespoons stone-ground cornmeal"
     - "3 Tablespoons granulated sugar"
     - "&frac34; teaspoon baking powder"
