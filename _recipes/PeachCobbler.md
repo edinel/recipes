@@ -10,9 +10,9 @@ ingredients:
     - "&frac14; cup tapioca starch"
     - "1 fat Tablespoon lemon juice"
     - "Scant &frac14; teaspoon cinnamon <br> 
-    (or more, if you like a peach-cinnamon cobbler)"
+    (or more, if you would like a peach-cinnamon cobbler)"
     - "2 drops almond extract (optional)"
-    - "1 cup unbleached all-purpose flour less 2 tablespoons 
+    - "1 cup unbleached all-purpose flour less 2 tablespoons <br>
     (112 grams)"
     - "2 Tablespoons stone-ground cornmeal"
     - "3 Tablespoons granulated sugar"
@@ -34,7 +34,7 @@ directions:
     - "Meanwhile, make the topping.  Do not start this before beginning the baking or the biscuits won't rise properly"
     - "In a food processor or by hand blend flour, cornmeal, 3 Tablespoons sugar, baking powder, baking soda, lemon zest, and salt to combine"
     - "scatter butter all over and pulse (or rub with your fingertips) until mixture resembles coarse meal" 
-    - "Transfer to medium bowl; add yogurt and toss with rubber spatula until cohesive dough is formed. (Don't overmix dough or biscuits will be tough.) Break dough into 6 evenly sized but roughly shaped mounds and set aside."
+    - "Transfer to medium bowl; add yogurt and toss with rubber spatula until cohesive dough is formed. <br> (Don't overmix dough or biscuits will be tough.) Break dough into 6 evenly sized but roughly shaped mounds and set aside."
     - "After peaches are bubbling around the edges, remove peaches from oven and place dough mounds on top, sprinkling with remaining sugar" 
     - "Bake until topping is golden brown and filling is bubbling in the center, 15-20 minutes"
 ---
