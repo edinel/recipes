@@ -21,11 +21,11 @@ ingredients:
     - "&frac12; teaspoon kosher salt"
     - "Grated zest of one lemon" 
     - "5 Tablespoons (71 grams) unsalted butter cold, cut into 1/4-inch cubes"
-    - "&frac34; cup plain whole-milk yogurt"
+    - "&frac13; cup plain whole-milk yogurt"
     - "1 teaspoon granulated or demerara sugar, for sprinkling"
     
 directions:
-    - "Preheat oven to 425"
+    - "Preheat oven to 425&deg;"
     - "Slice each peach half into 4 wedges.  Toss the wedges with 1/4 cup of sugar and let stand for 30 minutes, tossing a few times."
     - "Drain peaches, discarding all but &frac14; of the juice"
     - "Mix juice with a pinch of salt, tapioca starch, lemon juice, cinnamon, and almond extract, and toss with peaches"
