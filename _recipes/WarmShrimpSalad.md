@@ -3,7 +3,6 @@ layout: recipe
 title:  "Warm Shrimp Salad with Green Beans and Chiles"
 image: "default.jpg"
 tags: "main-course", "Italian", "seafood", "shrimp"
-author: "Mario Batali"
 
 ingredients:
     - "2 pounds large (21-30) shrimp, peeled and deveined"
