@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "War Shrimp Salad with Green Beans and Chiles"
+title:  "Warm Shrimp Salad with Green Beans and Chiles"
 image: default.jpg
 tags: Italian, seafood, main, appetizer, shrimp
 
@@ -27,4 +27,4 @@ directions:
 - "Drizzle each squash with 1/2 teaspoon olive oil and bake until squash is tender and stuffing browns slightly, about 40 minutes."
 
 ---
-This used to be published at seriouseats.com but has been taken offline.
+To quote the author: \"White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it great for potlucks\"
