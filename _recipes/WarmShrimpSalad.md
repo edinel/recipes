@@ -16,7 +16,7 @@ ingredients:
     - "2 fresno or other fresh red chiles, very thinly sliced"
     - "grated zest and juice of one lemon"
     - "about a teaspoon of freshly ground black pepper"
-
+n
 directions:
     - "Preheat your griddle/piastra over your grill"
     - "Place the shrimp in a bowl, add 3 tablespoons of olive oil, the olive paste, the baking soda, and red pepper flakes, and mix well with your hands to cover the shrimp.  Set aside."
