@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title:  "Stuffed Acorn Squash with Cranberries and Wild Rice"
-image: Acornsquash.jpg
-tags: Vegetarian, main, squash
+title:  "War Shrimp Salad with Green Beans and Chiles"
+image: default.jpg
+tags: Italian, seafood, main, appetizer, shrimp
 
 ingredients: 
 - "4 small acorn squash"
