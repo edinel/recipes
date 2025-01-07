@@ -18,14 +18,14 @@ ingredients:
 
 
 directions:
-- "Adjust oven rack to middle position and preheat oven to 375°F (190°C)."
-- "Clean squash, removing the point at the bottom to use as a lid and removing all seeds and fibers.  "
-- "Place squash on a rimmed baking sheet, season lightly with salt and pepper, and drizzle each squash with 1/2 teaspoon olive oil. Bake for 45 minutes, then remove from oven."
-- "In the meantime, prepare the stuffing, heat 2 tablespoons olive oil in a large cast iron skillet over medium heat until shimmering. Add onion, garlic and thyme and cook, stirring occasionally, until onion sweats but does not brown, about 4 minutes." 
-- "Add cooked white rice and cooked wild rice to the skillet and stir to combine. "
-- "Add chopped pecans, dried cranberries, and ricotta salata and stir to combine. Season to taste with salt and pepper."
-- "Stuff each acorn squash with about 1/4 of stuffing mixture, packing stuffing into squash cavity and mounding it slightly."
-- "Drizzle each squash with 1/2 teaspoon olive oil and bake until squash is tender and stuffing browns slightly, about 40 minutes."
+- "Preheat your skillet or piastra or grill"
+- "Put the shrimp in a large bopwl, add 3 tablespoons of olive oil, the olive patse, the baking soda, and red pepper flakes, and mix well with your hands to cover the shrimp.  Set aside."
+- "Cook the green beans till just al dente -- either steam or boil and then shock in ice water" 
+- "Put the beans in a serving bowl, add the hazelnuts, red onion, and sliced chiles, and toss to mix.  Set aside."
+- "Cook the shrimp over highest heat for about 2 minutes on one side until lightly brown.  Turn and continue cooking until just done through."
+- "Toss the shrimp in the bowl with the beans, along with the lemon juice, zest, and some olive oil"
+- "Season generously with black pepper, and serve warm or at room temperature"
+
 
 ---
 To quote the author: \"White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it great for potlucks\"
