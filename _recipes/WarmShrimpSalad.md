@@ -27,4 +27,4 @@ directions:
     - "Season generously with black pepper, and serve warm or at room temperature."
     
 ---
-To quote the author: "White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it especially great for potlucks"
+To quote the author: "White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it great for potlucks"
