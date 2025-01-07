@@ -7,7 +7,7 @@ author: "Mario Batali"
 
 ingredients:
     - "2 pounds large (21-30) shrimp, peeled and deveined"
-    - "&frac14; teaspoon baking soda"
+    - "1/4 teaspoon baking soda"
     - "2 tablespoons black olive paste"
     - "1 teaspoon hot red pepper flakes"
     - "1 pound green beans or haricot verts, trimmed"
