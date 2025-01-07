@@ -2,12 +2,12 @@
 layout: recipe
 title:  "Hopping John / Black Eyed Peas"
 image: "default.jpg"
-tags: main, holidays, new years
+tags: main, holidays, newyears
 
 ingredients:
     - "2 strips bacon, diced"
     - "2 garlic cloves, finely chopped"
-    - "3 celery stalk, finely chopped""3-4 ripe tomatoes.  (note: there is an argument amongst families about whether there should be tomatoes in kyopoulou)"
+    - "3 celery stalk, finely chopped"
     - "2 green bell peppers, seeded and finely chopped"
     - "1 onion, finely chopped"
     - "1 tsp ground coriander"
@@ -16,7 +16,6 @@ ingredients:
     - "2 cloves"
     - "1 2 inch stick of cinnamon"
     - "1 lb dried black-eyed peas" 
-    - 
 
 directions:
     - "The day before, soak the black-eyed peas overnight in 2 quarts of water with 3 tablespoons of salt dissolved in it"
@@ -26,6 +25,7 @@ directions:
     - "Add the spices: coriander, thyme, cumin, cloves and cook briefly till fragrant"
     - "Drain the soaked peas and add to the pot along with water to cover by about an inch."
     - "Cook till peas are tender; about 30 minutes"
+    - Serve with some of the broth, sprinkling with the reserved bacon"
 
 ---
 
