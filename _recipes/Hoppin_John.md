@@ -29,4 +29,4 @@ directions:
 
 ---
 
-The most traditional Southern New Year's dish.  Serve with greens and tabasco.
+The most traditional Southern New Year's dish.  Serve with greens and tabasco.  Yum!  
