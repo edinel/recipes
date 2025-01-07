@@ -28,4 +28,4 @@ directions:
 ---
 To quote the author: \"White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it great for potlucks\"
 
-I wonder what's not working about this page.  
+I wonder what's not working about this recipe.  
