@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Hopping John / Black Eyed Peas"
-image: "default.jpg"
+image: "hoppin_john.jpg"
 tags: main, holidays, newyears
 
 ingredients:
