@@ -25,6 +25,7 @@ directions:
     - "Spread the shrimp on the griddle or piastra in a single layer and cook until pink and golden brown on the first side, about 2 minutes.  Turn and cook until just cooked through."
     - "Toss the shrimp into the bowl with the beans.  Add the lemon juice, zest, and around &frac14; cup olive oil"
     - "Season generously with black pepper, and serve warm or at room temperature."
-    
 ---
-To quote the author: "White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it great for potlucks"
+To quote the author: \"White beans are traditionally served with shrimp; the green beans are a fun variation.  All the different flavors and textures really come together in this delicious salad.  And, best of all, the recipe doubles easily, making it great for potlucks\"
+
+I wonder what's not working about this page.  
