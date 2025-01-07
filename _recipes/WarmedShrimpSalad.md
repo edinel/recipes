@@ -5,15 +5,16 @@ image: default.jpg
 tags: Italian, seafood, main, appetizer, shrimp
 
 ingredients: 
-- "4 small acorn squash"
-- "1 medium onion, finely chopped (about 1 cup)"
-- "2 medium garlic cloves, minced (about 2 teaspoons)"
-- "1 teaspoon chopped fresh thyme"
-- "1 cup cooked long-grain white rice (&frac12; cup raw rice)"
-- "&frac12; cup wild rice, boiled in 2 cups water for 30 minutes, then drained"
-- "&frac14; cup pecans, toasted and finely chopped"
-- "&frac12; cup dried cranberries"
-- "&frac12; cup grated ricotta salata cheese"
+- "2 lbs large (21-30) shrimp, peeled and deveined"
+- "1/4 tsp baking soda"
+- "2 Tablespoons black olive paste (can be made by just pureeing black olives in a food processor--pit them first!)"
+- "1 half teaspoon red pepper flakes"
+- "1 lb green beans or haricot verts, trimmed"
+- "4 oz hazelnuts, coarsley chopped"
+- "1 red onion, halved lengthwise, and very thinly sliced"
+- "2 fresno chiles, very thinly sliced"
+- "Grated zest and juice of one lemon"
+- About a teaspoon of freshly ground black pepper"
 
 
 directions:
