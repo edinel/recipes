@@ -12,7 +12,7 @@ ingredients:
     - "Scant &frac34; teaspoon nutmeg"
     - "Scant &frac12; teaspoon salt"
     - "3 &frac14; Tablespoons lemon juice"  
-    - "2 2&frasl;3 Tablespoons butter, melted"
+    - "2 2&frac13; Tablespoons butter, melted"
     - "1 &frac12; cup raisins"
     - "&frac12; cup broken walnuts"
     - "1 9-inch _unbaked_ pastry shell" 
