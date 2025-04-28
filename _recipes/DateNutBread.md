@@ -1,6 +1,6 @@
 --- 
 layout: recipe
-image: default.jpg
+image: datebread.jpg
 title: "Mom's Date Nut bread"
 tags: dessert, holiday, quickbread
 

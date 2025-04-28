@@ -8,14 +8,14 @@ ingredients:
    - "1 onion, diced"
    - "1 green pepper, diced"
    - "2 lbs ground beef"
-   - "&frac13; - &frac12; lb mushrooms, sliced."
+   - "1&frasl;3 - &frac12; lb mushrooms, sliced."
    - "2 cloves garlic, pressed or finely chopped"
    - "1 28 oz can of peeled tomatoes (with basil is ok)"
    - "2 14 oz. cans of tomato sauce"
    - "12 oz. tomato paste (two 6-oz cans)"
    - "dried oregano"
    - "dried basil"
-   - "&frac14; - &frac13; cup dried parsley flakes"
+   - "&frac14; - 1&frasl;3 cup dried parsley flakes"
    - "2 bay leaves"
    
 

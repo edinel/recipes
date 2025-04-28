@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Indian-Style Lime Pickle"
-image: "default.jpg"
+image: "lime_achar.jpg"
 tags: side, dip, vegetarian, India, lime
 
 ingredients:
