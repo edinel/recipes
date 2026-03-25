@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Warm Shrimp Salad with Green Beans and Chiles"
-image: hoppin_john.jpg
+image: default.jpg
 tags: Italian, seafood, main, appetizer, shrimp
 
 ingredients: 
